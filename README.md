@@ -56,37 +56,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish-sharma360&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=satish-sharma360&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satish-sharma360&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=satish-sharma360&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish-sharma360&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satish-sharma360&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=satish-sharma360&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=satish-sharma360&icon=0&color=0" />
-</p>
-
----
-
-## 🔥 Quote
-
-> “First, solve the problem. Then, write the code.” 
-
----
